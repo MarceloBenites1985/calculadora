@@ -1,4 +1,4 @@
-# calculadora1
+# calculadora
 
 ## Project setup
 ```
