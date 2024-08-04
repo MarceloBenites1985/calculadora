@@ -26,7 +26,13 @@
 
 ###
 
-<p align="left">```<br>git clone https://github.com/seu-usuario/nome-do-repositorio.git<br><br>```</p>
+<p align="left"> 
+  
+  ```
+  git clone https://github.com/seu-usuario/nome-do-repositorio.git 
+  ```
+
+</p>
 
 ###
 
@@ -34,7 +40,12 @@
 
 ###
 
-<p align="left">```<br>cd nome-do-repositorio<br><br>```</p>
+<p align="left">
+  
+  ```
+  cd nome-do-repositorio
+  ```
+</p>
 
 ###
 
@@ -42,11 +53,21 @@
 
 ###
 
-<p align="left">```<br>npm install<br><br><br>```</p>
+<p align="left">
+  
+  ```
+  npm install]
+  ```
+</p>
 
 ###
 
-<p align="left">ou <br><br>```<br>yarn install<br><br>````</p>
+<p align="left">ou 
+  
+  ```
+  yarn install
+  ````
+</p>
 
 ###
 
@@ -58,15 +79,25 @@
 
 ###
 
-<p align="left">```<br>npm run serve<br><br>```</p>
+<p align="left">
+  
+  ```
+  npm run serve
+  ```
+</p>
 
 ###
 
-<p align="left">ou<br><br>```<br>yarn serve<br><br>```</p>
+<p align="left">ou 
+  
+  ```
+  yarn serve
+  ```
+</p>
 
 ###
 
-<p align="left">Abra seu navegador e acesse http://localhost:8080  para ver a calculadora em ação.</p>
+<p align="left">Abra seu navegador e acesse  *http://localhost:8080*   para ver a calculadora em ação.</p>
 
 ###
 
@@ -82,7 +113,7 @@
 
 ###
 
-<p align="left">. Os números e a operação selecionada são armazenados no estado do componente (data).<br>. O método calculate é chamado sempre que um dos valores ou a operação é alterado.<br>. O resultado da operação é atualizado com base nos valores e na operação selecionada.</p>
+<p align="left">     . Os números e a operação selecionada são armazenados no estado do componente (data).<br>   . O método calculate é chamado sempre que um dos valores ou a operação é alterado.<br>.   O resultado da operação é atualizado com base nos valores e na operação selecionada.</p>
 
 ###
 
